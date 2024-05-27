@@ -68,7 +68,7 @@ header{
     background-color: #D5FF43;
     border-radius: 0.911vw;
     padding: 0.5vh 0.455vw;
-    height: 5vh;
+    height: 10vh;
 }
 .metrolinea a{
    text-decoration: none;
@@ -78,7 +78,7 @@ header{
    font-size: 1.2vw;
 }
 .metrolinea img{
-    width: 7vw;
+    width: 10vw;
 }
 
 .extra{

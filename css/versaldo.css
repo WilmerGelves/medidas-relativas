@@ -58,16 +58,18 @@ header{
 .text-alternativo p{
     font-weight: bold;
 }
-
+.contenedor-inferior{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 .contenedor-inferior h2{
     font-size: 1.3vw;
 }
 .text{
     font-size: 1.3vw; 
 }
-.contenedor-inferior{
-    position: relative;
-}
+
 .monto{
     margin-top: -0.5vh;
     border: 1px solid #707070;
@@ -81,18 +83,19 @@ header{
     background-color: #D5FF43;
     border-radius: 10px;
     padding: 0.5vh 0.455vw;
-    position: absolute;
     right: 0.182vw;
     top: 10vh;
-
+    display: inline-block;
+    text-align: center;
 }
 .metrolinea a{
    text-decoration: none;
    color: black;
    font-weight: bold;
+   font-size: 1.2vw;
 }
 .metrolinea img{
-    width: 9.107vw;
+    width: 10vw;
 }
 
 .extra{

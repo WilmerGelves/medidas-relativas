@@ -81,10 +81,8 @@ header{
 }
 .metrolinea{
     background-color: #D5FF43;
-    border-radius: 10px;
+    border-radius: 0.911vw;
     padding: 0.5vh 0.455vw;
-    right: 0.182vw;
-    top: 10vh;
     display: inline-block;
     text-align: center;
 }

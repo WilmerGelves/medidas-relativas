@@ -52,7 +52,8 @@ header{
 
 .contenedor-inferior{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
     
 }
 .contenedor-inferior h2{
@@ -68,7 +69,8 @@ header{
     background-color: #D5FF43;
     border-radius: 0.911vw;
     padding: 0.5vh 0.455vw;
-    height: 10vh;
+    display: inline-block;
+    text-align: center;
 }
 .metrolinea a{
    text-decoration: none;
